@@ -1,0 +1,23 @@
+@font-face {
+  font-family: '<link>https://www.disney.com.br/novidades/camp-rock-relembre-o-filme-com-demi-lovato-e-os-jonas-brothers</link>';
+  src: url() format('truetype');
+  /* Adicione outros formatos de fonte, como woff, woff2, etc., conforme necessário */
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  font-family: '<link>https://www.disney.com.br/novidades/camp-rock-relembre-o-filme-com-demi-lovato-e-os-jonas-brothers</link>';
+
+}
+
+
+p {
+  margin-left: 10vh;
+  margin-right: 10vh;
+}
+.volt{
+  color: rgb(0, 0, 0);
+
+}
